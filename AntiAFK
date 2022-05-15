@@ -4,6 +4,6 @@ VirtualUser:CaptureController()
 VirtualUser:ClickButton2(Vector2.new())
 end)
 game.StarterGui:SetCore('SendNotification', {
-    Title = 'icee#3978',
+    Title = '.gg/udhc',
     Text = 'Anti AFK ON'
 })
