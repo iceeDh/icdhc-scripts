@@ -1,0 +1,4 @@
+getgenv().Active = true --Toggle true or false
+getgenv().CrashAmmount = 1400 --The more you add the better
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Seller-Tools/main/GS21%20Dh%20Crash'))()
